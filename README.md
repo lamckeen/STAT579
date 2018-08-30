@@ -8,5 +8,3 @@ About Joe Zemmels:
 - Really enjoyed programming in undergrad, so pursued more programming opportunities in free time
 - Excited to become a better programmer and learn about R
 
-
--hi
